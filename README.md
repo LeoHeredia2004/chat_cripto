@@ -1,4 +1,4 @@
-🗨️ Crypto Chat
+#Crypto Chat
 A simple and secure client-server chat application built with Rust, featuring RSA end-to-end encryption and SHA-256 for message integrity.
 
 🚀 Features
